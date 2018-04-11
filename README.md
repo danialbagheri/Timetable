@@ -12,3 +12,8 @@ git clone
 * create a virtual environment in the directory - you would need to have root ssh access to your server
 * Read online about how to deploy Flask/Flask restless
 
+## Wordpress Plugin
+
+In the new version I have included a simple wordpress plugin written in PHP. Please note this Plugin is currently set to use a SQLite database and I will add setting for MySQL in the next update. It is great for any one with VPS website but some Shared hosting wont allow you to use SQLite for PHP. 
+
+
